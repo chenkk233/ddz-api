@@ -1,5 +1,5 @@
 {
-    "name": "chenkkAno/ddz-api",
+    "name": "chenkkano/ddz-api",
     "description": "PHP-DDZ-API 是一个用 PHP 编写的斗地主后台 API 接口项目，提供了完整的斗地主游戏后台服务。",
     "type": "project",
     "license": "MIT",
