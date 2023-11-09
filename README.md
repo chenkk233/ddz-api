@@ -11,7 +11,7 @@ Unity/UE4/UE5/Gamemaker/Cocos
 
 只要你的前端语言或游戏引擎支持Http协议的接口协议，就可以连接本项目的API接口完成数据交互。
 
-[快速开始](#如何使用) / [API文档](https://chatanywhere.apifox.cn/) / [项目详细文字教程](https://file.otscp.com/web/#/684688848/0)
+[快速开始](#如何使用) / [API文档](https://apifox.com/apidoc/shared-9578c30e-bfea-4456-9837-c808db251eb2) / [项目详细文字教程](https://file.otscp.com/web/#/684688848/0)
 
 [我的个人博客](https://www.otscp.com)
 
